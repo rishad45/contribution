@@ -1,0 +1,14 @@
+.sidebar{
+    margin-top: 45px;
+    background-color: rgb(245, 239, 239);
+    width: 20%;
+    height: 148vh;
+    margin-right: 15px;
+}
+.center{
+    width: 80%;
+    height: auto;
+}
+.main{
+    display: flex;
+}
