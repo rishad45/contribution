@@ -1,12 +1,13 @@
 import React, { Fragment } from 'react'
 import './Profile.css'
+import Sidebar from './Sidebar/Sidebar'
 
 function Profile() {
     return (
         <Fragment>
             <div className='main'>
             <div className='sidebar'>
-              sidebar
+                <Sidebar/>
             </div>
             <div className='center'>
             <div className='container'>
